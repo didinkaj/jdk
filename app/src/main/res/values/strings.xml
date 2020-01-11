@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JDK</string>
+    <string name="action_settings">Settings</string>
+    <string name="web_view_example">Web View Example</string>
+</resources>
